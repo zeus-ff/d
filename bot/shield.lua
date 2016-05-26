@@ -253,20 +253,11 @@ function create_config( )
     "echo",
     "fohsh"
     },
-    sudo_users = {119650184,156823206,80182995},--Sudo users
+    sudo_users = {184405202},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
-    shield bot 5.5
-    
-     Hello my Good friends 
-     
-   〰〰〰〰〰〰〰〰
-   ߔࠀ   founder : @hafez1116hafez
-   ߔࠀ   sudo : @amirho3ein911
-   ߔࠀ   sudo: @RedCross_king
-   〰〰〰〰〰〰〰〰
-  ♻️ You can send your Ideas and messages to Us By sending them into bots account by this command :
+m2fan bot 
    تمامی درخواست ها و همه ی انتقادات و حرفاتونو با دستور زیر بفرستین به ما
    !feedback (نظر خود )
 ]],
